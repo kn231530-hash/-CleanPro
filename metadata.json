@@ -1,0 +1,6 @@
+{
+  "name": "CleanPro - On-Demand Professional Cleaning",
+  "description": "Hospital-grade home sanitation, instant cleaner dispatch, live tracking, and customized cleaning rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
